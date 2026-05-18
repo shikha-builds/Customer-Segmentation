@@ -1,0 +1,14 @@
+streamlit
+fastapi
+uvicorn
+requests
+python-multipart
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+seaborn
+joblib
+openai
+python-dotenv
