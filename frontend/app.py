@@ -58,7 +58,7 @@ if uploaded_file is not None:
         }
 
         response = requests.post(
-            "http://127.0.0.1:8000/cluster",
+            "https://customer-segmentation-nu88.onrender.com/cluster",
             files=files
         )
 
